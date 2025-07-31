@@ -29,11 +29,12 @@
     },
     "extra": {
       "eas": {
-        "projectId": "projif-mirella"
+        "projectId": "9d13e610-7f4f-41b4-b0ff-2a6edc9f624d"
       }
     },
     "plugins": [
-      "expo-web-browser"
+      "expo-web-browser",
+      "expo-build-properties"
     ]
   }
 }
